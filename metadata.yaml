@@ -1,5 +1,5 @@
 _repo: De-drie-steden-Rome_61326
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Roldanus, Willem Jacob Aarland
@@ -11,12 +11,17 @@ contributor:
   - agent_name: Jr.
     gutenberg_agent_id: '51343'
     url: http://www.gutenberg.org/2009/agents/51343
+covers:
+- cover_type: archival
+  image_path: 61326-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Emile
     gutenberg_agent_id: '51362'
     url: http://www.gutenberg.org/2009/agents/51362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61326#De-drie-steden-Rome
 gutenberg_issued: '2020-02-05'
 gutenberg_type: Text
 identifiers:
